@@ -1,0 +1,191 @@
+[p LITE_MODE AUTOSTATIC LFSROK EMI_WORD ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 18F14K22 ]
+"5 /opt/microchip/xc8/v1.20/sources/common/abdiv.c
+[v ___abdiv __abdiv `(c  1 e 1 0 ]
+"5 /opt/microchip/xc8/v1.20/sources/common/abmod.c
+[v ___abmod __abmod `(c  1 e 1 0 ]
+"32 /opt/microchip/xc8/v1.20/sources/common/abtofl.c
+[v ___abtofl __abtofl `(d  1 e 3 0 ]
+"34 /opt/microchip/xc8/v1.20/sources/common/abtoft.c
+[v ___abtoft __abtoft `(f  1 e 3 0 ]
+"10 /opt/microchip/xc8/v1.20/sources/common/aldiv.c
+[v ___aldiv __aldiv `(l  1 e 4 0 ]
+"10 /opt/microchip/xc8/v1.20/sources/common/almod.c
+[v ___almod __almod `(l  1 e 4 0 ]
+"37 /opt/microchip/xc8/v1.20/sources/common/altofl.c
+[v ___altofl __altofl `(d  1 e 3 0 ]
+"43 /opt/microchip/xc8/v1.20/sources/common/altoft.c
+[v ___altoft __altoft `(f  1 e 3 0 ]
+"10 /opt/microchip/xc8/v1.20/sources/common/atdiv.c
+[v ___atdiv __atdiv `(m  1 e 3 0 ]
+"10 /opt/microchip/xc8/v1.20/sources/common/atmod.c
+[v ___atmod __atmod `(m  1 e 3 0 ]
+"38 /opt/microchip/xc8/v1.20/sources/common/attofl.c
+[v ___attofl __attofl `(d  1 e 3 0 ]
+"38 /opt/microchip/xc8/v1.20/sources/common/attoft.c
+[v ___attoft __attoft `(f  1 e 3 0 ]
+"10 /opt/microchip/xc8/v1.20/sources/common/awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+"10 /opt/microchip/xc8/v1.20/sources/common/awmod.c
+[v ___awmod __awmod `(i  1 e 2 0 ]
+"32 /opt/microchip/xc8/v1.20/sources/common/awtofl.c
+[v ___awtofl __awtofl `(d  1 e 3 0 ]
+"33 /opt/microchip/xc8/v1.20/sources/common/awtoft.c
+[v ___awtoft __awtoft `(f  1 e 3 0 ]
+"3 /opt/microchip/xc8/v1.20/sources/common/bmul.c
+[v ___bmul __bmul `(uc  1 e 1 0 ]
+"64 /opt/microchip/xc8/v1.20/sources/common/double.c
+[v ___flpack __flpack `(d  1 e 3 0 ]
+"89 /opt/microchip/xc8/v1.20/sources/common/fladd.c
+[v ___fladd __fladd `(d  1 e 3 0 ]
+"50 /opt/microchip/xc8/v1.20/sources/common/fldiv.c
+[v ___fldiv __fldiv `(d  1 e 3 0 ]
+"5 /opt/microchip/xc8/v1.20/sources/common/flge.c
+[v ___flge __flge `(b  1 e 0 0 ]
+"51 /opt/microchip/xc8/v1.20/sources/common/flmul.c
+[v ___flmul __flmul `(d  1 e 3 0 ]
+"16 /opt/microchip/xc8/v1.20/sources/common/flneg.c
+[v ___flneg __flneg `(d  1 e 3 0 ]
+"63 /opt/microchip/xc8/v1.20/sources/common/float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"22 /opt/microchip/xc8/v1.20/sources/common/flsub.c
+[v ___flsub __flsub `(d  1 e 3 0 ]
+"44 /opt/microchip/xc8/v1.20/sources/common/fltol.c
+[v ___fltol __fltol `(l  1 e 4 0 ]
+"87 /opt/microchip/xc8/v1.20/sources/common/ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"50 /opt/microchip/xc8/v1.20/sources/common/ftdiv.c
+[v ___ftdiv __ftdiv `(f  1 e 3 0 ]
+"5 /opt/microchip/xc8/v1.20/sources/common/ftge.c
+[v ___ftge __ftge `(b  1 e 0 0 ]
+"52 /opt/microchip/xc8/v1.20/sources/common/ftmul.c
+[v ___ftmul __ftmul `(f  1 e 3 0 ]
+"16 /opt/microchip/xc8/v1.20/sources/common/ftneg.c
+[v ___ftneg __ftneg `(f  1 e 3 0 ]
+"22 /opt/microchip/xc8/v1.20/sources/common/ftsub.c
+[v ___ftsub __ftsub `(f  1 e 3 0 ]
+"45 /opt/microchip/xc8/v1.20/sources/common/fttol.c
+[v ___fttol __fttol `(l  1 e 4 0 ]
+"5 /opt/microchip/xc8/v1.20/sources/common/lbdiv.c
+[v ___lbdiv __lbdiv `(uc  1 e 1 0 ]
+"5 /opt/microchip/xc8/v1.20/sources/common/lbmod.c
+[v ___lbmod __lbmod `(uc  1 e 1 0 ]
+"28 /opt/microchip/xc8/v1.20/sources/common/lbtofl.c
+[v ___lbtofl __lbtofl `(d  1 e 3 0 ]
+"28 /opt/microchip/xc8/v1.20/sources/common/lbtoft.c
+[v ___lbtoft __lbtoft `(f  1 e 3 0 ]
+"10 /opt/microchip/xc8/v1.20/sources/common/lldiv.c
+[v ___lldiv __lldiv `(ul  1 e 4 0 ]
+"10 /opt/microchip/xc8/v1.20/sources/common/llmod.c
+[v ___llmod __llmod `(ul  1 e 4 0 ]
+"31 /opt/microchip/xc8/v1.20/sources/common/lltofl.c
+[v ___lltofl __lltofl `(d  1 e 3 0 ]
+"36 /opt/microchip/xc8/v1.20/sources/common/lltoft.c
+[v ___lltoft __lltoft `(f  1 e 3 0 ]
+"3 /opt/microchip/xc8/v1.20/sources/common/lmul.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+"10 /opt/microchip/xc8/v1.20/sources/common/ltdiv.c
+[v ___ltdiv __ltdiv `(um  1 e 3 0 ]
+"10 /opt/microchip/xc8/v1.20/sources/common/ltmod.c
+[v ___ltmod __ltmod `(um  1 e 3 0 ]
+"31 /opt/microchip/xc8/v1.20/sources/common/lttofl.c
+[v ___lttofl __lttofl `(d  1 e 3 0 ]
+"31 /opt/microchip/xc8/v1.20/sources/common/lttoft.c
+[v ___lttoft __lttoft `(f  1 e 3 0 ]
+"10 /opt/microchip/xc8/v1.20/sources/common/lwdiv.c
+[v ___lwdiv __lwdiv `(ui  1 e 2 0 ]
+"10 /opt/microchip/xc8/v1.20/sources/common/lwmod.c
+[v ___lwmod __lwmod `(ui  1 e 2 0 ]
+"29 /opt/microchip/xc8/v1.20/sources/common/lwtofl.c
+[v ___lwtofl __lwtofl `(d  1 e 3 0 ]
+"29 /opt/microchip/xc8/v1.20/sources/common/lwtoft.c
+[v ___lwtoft __lwtoft `(f  1 e 3 0 ]
+"3 /opt/microchip/xc8/v1.20/sources/common/tmul.c
+[v ___tmul __tmul `(um  1 e 3 0 ]
+"5 /opt/microchip/xc8/v1.20/sources/common/wmul.c
+[v ___wmul __wmul `(ui  1 e 2 0 ]
+"5 /opt/microchip/xc8/v1.20/sources/pic18/asfladd.c
+[v ___asfladd __asfladd `(d  1 e 3 0 ]
+"5 /opt/microchip/xc8/v1.20/sources/pic18/asfldiv.c
+[v ___asfldiv __asfldiv `(d  1 e 3 0 ]
+"5 /opt/microchip/xc8/v1.20/sources/pic18/asflmul.c
+[v ___asflmul __asflmul `(d  1 e 3 0 ]
+"5 /opt/microchip/xc8/v1.20/sources/pic18/asflsub.c
+[v ___asflsub __asflsub `(d  1 e 3 0 ]
+"5 /opt/microchip/xc8/v1.20/sources/pic18/asftadd.c
+[v ___asftadd __asftadd `(f  1 e 3 0 ]
+"5 /opt/microchip/xc8/v1.20/sources/pic18/asftdiv.c
+[v ___asftdiv __asftdiv `(f  1 e 3 0 ]
+"5 /opt/microchip/xc8/v1.20/sources/pic18/asftmul.c
+[v ___asftmul __asftmul `(f  1 e 3 0 ]
+"5 /opt/microchip/xc8/v1.20/sources/pic18/asftsub.c
+[v ___asftsub __asftsub `(f  1 e 3 0 ]
+"5 /opt/microchip/xc8/v1.20/sources/pic18/aslmul.c
+[v ___aslmul __aslmul `(ul  1 e 4 0 ]
+"57 /home/elia/MPLABXProjects/PIC-tutorials/PWM.X/main.c
+[v _main main `(i  1 e 2 0 ]
+[s S21 . 1 `uc 1 TRISC0 1 0 :1:0 
+`uc 1 TRISC1 1 0 :1:1 
+`uc 1 TRISC2 1 0 :1:2 
+`uc 1 TRISC3 1 0 :1:3 
+`uc 1 TRISC4 1 0 :1:4 
+`uc 1 TRISC5 1 0 :1:5 
+`uc 1 TRISC6 1 0 :1:6 
+`uc 1 TRISC7 1 0 :1:7 
+]
+"2277 /opt/microchip/xc8/v1.20/include/pic18f14k22.h
+[s S30 . 1 `uc 1 RC0 1 0 :1:0 
+`uc 1 RC1 1 0 :1:1 
+`uc 1 RC2 1 0 :1:2 
+`uc 1 RC3 1 0 :1:3 
+`uc 1 RC4 1 0 :1:4 
+`uc 1 RC5 1 0 :1:5 
+`uc 1 RC6 1 0 :1:6 
+`uc 1 RC7 1 0 :1:7 
+]
+[u S39 . 1 `S21 1 . 1 0 `S30 1 . 1 0 ]
+[v _TRISCbits TRISCbits `VES39  1 e 1 @3988 ]
+[s S61 . 1 `uc 1 CCP1M 1 0 :4:0 
+`uc 1 DC1B 1 0 :2:4 
+`uc 1 P1M 1 0 :2:6 
+]
+"4346
+[s S65 . 1 `uc 1 CCP1M0 1 0 :1:0 
+`uc 1 CCP1M1 1 0 :1:1 
+`uc 1 CCP1M2 1 0 :1:2 
+`uc 1 CCP1M3 1 0 :1:3 
+`uc 1 DC1B0 1 0 :1:4 
+`uc 1 DC1B1 1 0 :1:5 
+`uc 1 P1M0 1 0 :1:6 
+`uc 1 P1M1 1 0 :1:7 
+]
+[u S74 . 1 `S61 1 . 1 0 `S65 1 . 1 0 ]
+[v _CCP1CONbits CCP1CONbits `VES74  1 e 1 @4029 ]
+"4405
+[v _CCPR1 CCPR1 `VEus  1 e 2 @4030 ]
+[s S93 . 1 `uc 1 T2CKPS 1 0 :2:0 
+`uc 1 TMR2ON 1 0 :1:2 
+`uc 1 T2OUTPS 1 0 :4:3 
+]
+"5083
+[s S97 . 1 `uc 1 T2CKPS0 1 0 :1:0 
+`uc 1 T2CKPS1 1 0 :1:1 
+`uc 1 . 1 0 :1:2 
+`uc 1 T2OUTPS0 1 0 :1:3 
+`uc 1 T2OUTPS1 1 0 :1:4 
+`uc 1 T2OUTPS2 1 0 :1:5 
+`uc 1 T2OUTPS3 1 0 :1:6 
+]
+[u S105 . 1 `S93 1 . 1 0 `S97 1 . 1 0 ]
+[v _T2CONbits T2CONbits `VES105  1 e 1 @4042 ]
+"5132
+[v _PR2 PR2 `VEuc  1 e 1 @4043 ]
+"57 /home/elia/MPLABXProjects/PIC-tutorials/PWM.X/main.c
+[v _main main `(i  1 e 2 0 ]
+{
+"72
+[v main@i i `uc  1 a 1 1 ]
+"79
+} 0
